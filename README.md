@@ -11,7 +11,7 @@ Facial recognition-based attendance system using Python and OpenCV. Automaticall
 - After a specific cutoff time, all students not marked as present will be labeled as **absent**.
 
 ## 🗂 Project Structure:
-
+```
 facial-recognition-attendance/
 │
 ├── src/
@@ -26,7 +26,7 @@ facial-recognition-attendance/
 ├── requirements.txt # Dependencies
 ├── README.md # Documentation
 └── .gitignore
-
+```
 ## ▶️ Usage:
 
 1. Add student images inside data/student_images/
