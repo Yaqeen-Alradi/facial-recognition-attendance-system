@@ -29,10 +29,10 @@ facial-recognition-attendance/
 ```
 ## ▶️ Usage:
 
-1. Add student images inside data/student_images/
-   - File name format: name.jpg (e.g., guido.jpg)
+1. Add student images inside `data/student_images/`
+   - File name format: name.jpg (e.g., grace.jpg)
 
-2. Encode faces by updating src/known_faces.py:
+2. Encode faces by updating `src/known_faces.py`:
 ```known_face_encodings = [...]```
 ```known_face_names = [...]```
 3. Run the system:
