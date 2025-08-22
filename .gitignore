@@ -120,11 +120,11 @@ ENV/
 .DS_Store
 Thumbs.db
 
-# Face recognition image cache folder (if any)
+# Face recognition image cache folder
 .face_recognition_cache/
 
 # Compiled ctypes files
 *.cffi_backend.html
 
-# Attendance records (optional exclude if you want to keep locally)
-# data/attendance/
+# Attendance records
+ data/attendance/
